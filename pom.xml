@@ -15,10 +15,18 @@
 	<description>Config server for CrimsonSky</description>
 	<url/>
 	<licenses>
-		<license/>
+		<license>
+			<name>MIT License</name>
+			<url>https://opensource.org/licenses/MIT</url>
+		</license>
 	</licenses>
 	<developers>
-		<developer/>
+		<developer>
+			<id>ved-asole</id>
+			<name>Ved Asole</name>
+			<email>vedasole001@gmail.com</email>
+			<url>https://vedasole.cloud</url>
+		</developer>
 	</developers>
 	<scm>
 		<connection/>
