@@ -1,7 +1,5 @@
 # CrimsonSky - Config Server Microservice
 
----
-
 ## Live Link / Demo Link: 🔗
 Access the flight service at **[localhost:8888](http://localhost:8888)**
 
